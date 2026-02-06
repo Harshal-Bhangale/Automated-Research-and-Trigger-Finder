@@ -79,8 +79,8 @@ ART Finder enables marketers to:
 ---
 
 ### 💻 Tech Stack
-- **Backend:** Python, FastAPI, NLP (Hugging Face Transformers, spaCy), Celery/RabbitMQ  
-- **Database:** SQL / NoSQL (MongoDB, PostgreSQL)  
+- **Backend:** Java, Python, FastAPI, NLP (Hugging Face Transformers, spaCy), Celery/RabbitMQ  
+- **Database:** SQL / NoSQL (MongoDB, PostgreSQL) , Astra DB
 - **Frontend:** React / Next.js, Tailwind CSS, Chart.js / D3.js  
 - **APIs & Scraping:** YouTube API, Google API, web scraping tools (BeautifulSoup, Selenium)  
 
